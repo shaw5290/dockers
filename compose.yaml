@@ -1,0 +1,7 @@
+name: mydocker
+
+include:
+  - mysql/compose.yaml
+  - nginx/compose.yaml
+  - plaindoc/compose.yaml
+  - redis/compose.yaml
